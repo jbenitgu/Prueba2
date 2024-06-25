@@ -20,5 +20,7 @@ public class Main {
         String nnombre = "JEan KArlo";
         String nombre2 = new String("nombre2");
 
+        System.out.println("Hola a todos");
+
     }
 }
